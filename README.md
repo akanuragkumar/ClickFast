@@ -1,0 +1,2 @@
+# ClickFast
+Mouse Clicks Game
