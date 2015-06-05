@@ -25,7 +25,7 @@ $(document).ready(function() {
 
   function changeTimer()  {
     var time = parseInt( $("#timer").text() );
-    if( time == 0 ) {
+    if( time == 1 ) {
       timerFlag = false;
       stopTimer();
       $("#timer").text("Time Over");
