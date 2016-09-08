@@ -1,2 +1,2 @@
 # ClickFast
-Mouse Clicks Game
+Mouse Clicks Game 
