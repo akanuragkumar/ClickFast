@@ -1,6 +1,6 @@
 $(document).ready(function() {
 
-  var timeVar = null;
+  var timeVar = null; 
   var clicks = 0;
   var timerFlag = true;
 
